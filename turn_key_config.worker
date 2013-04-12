@@ -1,0 +1,3 @@
+runtime 'ruby'
+
+exec 'turn_key_config_worker.rb'

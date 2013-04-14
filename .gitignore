@@ -18,4 +18,5 @@ _yardoc
 doc/
 
 .idea/
-config.yml
+iron.json
+.c9revisions/
